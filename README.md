@@ -27,4 +27,5 @@ Make sure you have **[Node.js](https://nodejs.org/)** installed on your system.
 ## 🚀 How to Run
 
 ```bash
+npm install
 node index.js
