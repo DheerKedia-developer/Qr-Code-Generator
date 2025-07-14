@@ -1,7 +1,7 @@
 # QR Code Generator
 
 Hello! I'm **Dheer Kedia** 👋  
-In this project, I developed a simple **QR code generator** that takes a URL input from the user and generates a corresponding QR code image.
+In this project, I practiced backend basics with Node.js! Built a small CLI app that generates QR codes from URLs and saves the input
 
 This project is built using **Node.js**, with the following npm packages:
 - [`qr-image`](https://www.npmjs.com/package/qr-image)
